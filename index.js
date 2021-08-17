@@ -1,6 +1,7 @@
-let resta1=12;
-let resta2=10;
 
-function resta(){
-    return resta1-resta2;
+let variable1 = 10;
+let variable2 = 20;
+
+function suma(){
+    return variable1+variable2;
 }
